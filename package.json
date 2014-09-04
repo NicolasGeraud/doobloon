@@ -1,0 +1,19 @@
+{
+  "name": "doobloon",
+  "version": "1.0.0",
+  "description": "a doubloon exterminator !",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NicolasGeraud/doobloon.git"
+  },
+  "author": "Nicolas Geraud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasGeraud/doobloon/issues"
+  },
+  "homepage": "https://github.com/NicolasGeraud/doobloon"
+}
